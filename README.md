@@ -38,3 +38,7 @@ Alan Stanzione
 Daniele Niero 
 
 Constantine Tarasenkov 
+
+# License
+
+The BSD 3-Clause License
